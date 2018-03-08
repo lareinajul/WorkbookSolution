@@ -1,0 +1,6 @@
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\Mastermind\obj\Debug\Mastermind.pdb

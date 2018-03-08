@@ -1,0 +1,6 @@
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
