@@ -4,3 +4,4 @@ C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TicTacToe\bin\Debug\TicTacToe.pd
 C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
