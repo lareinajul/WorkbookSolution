@@ -1,0 +1,11 @@
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\bin\Debug\netcoreapp2.0\BlogPost.deps.json
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\bin\Debug\netcoreapp2.0\BlogPost.runtimeconfig.json
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\bin\Debug\netcoreapp2.0\BlogPost.runtimeconfig.dev.json
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\bin\Debug\netcoreapp2.0\BlogPost.dll
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\bin\Debug\netcoreapp2.0\BlogPost.pdb
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\obj\Debug\netcoreapp2.0\BlogPost.csprojResolveAssemblyReference.cache
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\obj\Debug\netcoreapp2.0\BlogPost.csproj.CoreCompileInputs.cache
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\obj\Debug\netcoreapp2.0\BlogPost.AssemblyInfoInputs.cache
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\obj\Debug\netcoreapp2.0\BlogPost.AssemblyInfo.cs
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\obj\Debug\netcoreapp2.0\BlogPost.dll
+C:\Users\JULIE\Desktop\SACA\C#\WorkbookSolution\BlogPost\obj\Debug\netcoreapp2.0\BlogPost.pdb
